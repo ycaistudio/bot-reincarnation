@@ -131,6 +131,16 @@ Until I confirm again, do not perform outbound or high-risk actions.
 
 ---
 
+## 🙏 Acknowledgements
+
+呢個工具由我原本自用嘅「變身」流程整理成通用版本，分享俾大家使用。特別鳴謝「香港 Grok Bot 交流區」成員 **Well Played**，佢分享嘅複製及交接提示詞，同「投胎」呢個有趣講法，啟發咗今次通用化整理。亦多謝群友一齊討論長對話嘅用量問題。
+
+**English translation:**
+
+This tool was reorganized from a 「變身」 (transformation) workflow I originally used for myself into a general version, shared for everyone to use. Special thanks to **Well Played**, a member of 「香港 Grok Bot 交流區」 (Hong Kong Grok Bot exchange group): the duplication and handover prompts they shared, and the playful wording 「投胎」 (“reincarnation”), inspired this generalization. Thanks also to the group for discussing long-conversation usage together.
+
+---
+
 ## 📄 License
 
 Released under the [MIT License](LICENSE). Maintained by [ycaistudio](https://github.com/ycaistudio).  
