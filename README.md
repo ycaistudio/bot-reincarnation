@@ -141,6 +141,12 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ---
 
+## 🙏 鳴謝
+
+呢個工具由我原本自用嘅「變身」流程整理成通用版本，分享俾大家使用。特別鳴謝「香港 Grok Bot 交流區」成員 **Well Played**，佢分享嘅複製及交接提示詞，同「投胎」呢個有趣講法，啟發咗今次通用化整理。亦多謝群友一齊討論長對話嘅用量問題。
+
+---
+
 ## 📄 授權
 
 本專案採用 [MIT License](LICENSE)，由 [ycaistudio](https://github.com/ycaistudio) 維護。  
