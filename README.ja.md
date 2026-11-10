@@ -76,7 +76,7 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ## 🚀 クイックスタート
 
-1. `SKILL.md` を bot の skills / workflows にコピーするか、この内容で skill を作らせる。
+1. このリポジトリのリンク（https://github.com/ycaistudio/bot-reincarnation）を bot に送り、`SKILL.md` を読んで skill として保存させる。ファイルを自分でコピーする必要はありません。
 2. （推奨）一度だけ：`templates/ID_REGISTRY.template.md` と `templates/HANDOVER.template.md` をコピーして埋める。
 3. 旧 bot で「投胎」または起動フレーズを言う。手順を確認する。
 4. 打鍵で確認。旧 bot が新 bot を作り、確認コマンドを渡す。

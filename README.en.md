@@ -76,7 +76,7 @@ See [`SKILL.md`](SKILL.md) for the full playbook.
 
 ## 🚀 Quick start
 
-1. Copy `SKILL.md` into your bot’s skills / workflows folder, or ask the bot to install this file as a skill.
+1. Send this repo link (https://github.com/ycaistudio/bot-reincarnation) to your bot and ask it to read `SKILL.md` and save it as a skill; no need to copy the file yourself.
 2. (Recommended) One-time setup: copy `templates/ID_REGISTRY.template.md` and `templates/HANDOVER.template.md`, fill paths and role.
 3. In the old bot, say “reincarnate” / paste the trigger phrase; review the planned steps.
 4. Type your confirmation. The old bot creates the new bot and gives you a confirm command.
