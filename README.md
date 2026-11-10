@@ -87,7 +87,7 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ## 🚀 快速上手
 
-1. 將本 repo 條 link（https://github.com/ycaistudio/bot-reincarnation）俾你嘅 bot，叫佢「讀 SKILL.md 存做 skill」，唔使自己複製檔案。
+1. 將本 repo 條 link [https://github.com/ycaistudio/bot-reincarnation](https://github.com/ycaistudio/bot-reincarnation) 俾你嘅 bot，叫佢「讀 SKILL.md 存做 skill」，唔使自己複製檔案。
 2. （建議）一次性架構：複製 `templates/ID_REGISTRY.template.md` 同 `templates/HANDOVER.template.md`，改成你嘅路徑同角色。
 3. 喺舊 bot 講「投胎」或貼上通用指令詞，等佢列出會做嘅步驟。
 4. 你打字確認之後，舊 bot 開新 bot，並俾你一段確認指令。
