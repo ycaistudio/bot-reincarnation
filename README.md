@@ -141,6 +141,20 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ---
 
+## 🔗 姊妹 Skill：Grok Bot 慳用量（grokbot-token-saver）
+
+[**grokbot-token-saver**](https://github.com/ycaistudio/grokbot-token-saver) 有 22 招慳 Grok Bot 每週用量嘅方法：盤點 routine 同群組、拉疏排程、改用事件觸發、限制 bot 之間傳訊息，同埋用量高時轉低用量模式。
+
+### 一連串用法
+
+1. 用慳用量 skill 盤點，搵出最食用量同**對話最長**嘅 bot。
+2. 拉疏 routine，改用事件觸發。
+3. 用**本 skill** 將長對話嘅 bot 投胎：記憶同權限保留，長對話唔帶走。
+4. 新 bot 一開始就跟住慳用量守則做嘢。
+5. 每週睇一次用量；有 bot 對話又變長，就返去第 3 步。
+
+---
+
 ## 🙏 鳴謝
 
 呢個工具由我原本自用嘅「變身」流程整理成通用版本，分享俾大家使用。特別鳴謝「香港 Grok Bot 交流區」成員 **Well Played**，佢分享嘅複製及交接提示詞，同「投胎」呢個有趣講法，啟發咗今次通用化整理。亦多謝群友一齊討論長對話嘅用量問題。

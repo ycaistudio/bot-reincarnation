@@ -131,6 +131,20 @@ Until I confirm again, do not perform outbound or high-risk actions.
 
 ---
 
+## 🔗 Companion skill: Grok Bot Token Saver
+
+[**grokbot-token-saver**](https://github.com/ycaistudio/grokbot-token-saver) collects 22 ways to save Grok Bot weekly usage: audit routines and group chats, slow schedules, switch to event triggers, cap bot-to-bot messages, and switch to a low-usage mode when the meter runs high.
+
+### Use them in sequence
+
+1. Use Token Saver to audit and find the heaviest bots and the ones with the **longest chats**.
+2. Slow routines and switch them to event triggers.
+3. Use **this skill** to reincarnate the long-chat bots: memory and permissions stay, the long chat does not.
+4. The fresh bot follows the saving habits from day one.
+5. Check the meter weekly; when a bot's chat grows long again, go back to step 3.
+
+---
+
 ## 🙏 Acknowledgements
 
 呢個工具由我原本自用嘅「變身」流程整理成通用版本，分享俾大家使用。特別鳴謝「香港 Grok Bot 交流區」成員 **Well Played**，佢分享嘅複製及交接提示詞，同「投胎」呢個有趣講法，啟發咗今次通用化整理。亦多謝群友一齊討論長對話嘅用量問題。
