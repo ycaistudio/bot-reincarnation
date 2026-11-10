@@ -6,8 +6,8 @@
 Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
-[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
+[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)](https://github.com/ycaistudio/bot-reincarnation)
+[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)](https://github.com/ycaistudio/bot-reincarnation)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ycaistudio/bot-reincarnation/pulls)
 
 ---
@@ -76,7 +76,7 @@ See [`SKILL.md`](SKILL.md) for the full playbook.
 
 ## 🚀 Quick start
 
-1. Send this repo link  [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation)  to your bot and ask it to read `SKILL.md` and save it as a skill; no need to copy the file yourself.
+1. Send this repo link (https://github.com/ycaistudio/bot-reincarnation) to your bot and ask it to read `SKILL.md` and save it as a skill; no need to copy the file yourself.
 2. (Recommended) One-time setup: copy `templates/ID_REGISTRY.template.md` and `templates/HANDOVER.template.md`, fill paths and role.
 3. In the old bot, say “reincarnate” / paste the trigger phrase; review the planned steps.
 4. Type your confirmation. The old bot creates the new bot and gives you a confirm command.
@@ -133,7 +133,7 @@ Until I confirm again, do not perform outbound or high-risk actions.
 
 ## 🔗 Companion skill: Grok Bot Token Saver
 
-[**grokbot-token-saver**] [`https://github.com/ycaistudio/grokbot-token-saver`](https://github.com/ycaistudio/grokbot-token-saver)  collects 22 ways to save Grok Bot weekly usage: audit routines and group chats, slow schedules, switch to event triggers, cap bot-to-bot messages, and switch to a low-usage mode when the meter runs high.
+[**grokbot-token-saver**](https://github.com/ycaistudio/grokbot-token-saver) collects 22 ways to save Grok Bot weekly usage: audit routines and group chats, slow schedules, switch to event triggers, cap bot-to-bot messages, and switch to a low-usage mode when the meter runs high.
 
 ### Use them in sequence
 
@@ -162,5 +162,5 @@ Version: **v1.0.0** (2026-11-06)
 
 Related open source:
 
-- [universal-bot-setup-playbook] [`https://github.com/ycaistudio/universal-bot-setup-playbook`](https://github.com/ycaistudio/universal-bot-setup-playbook) 
-- [universal-agent-workspace-toolkit] [`https://github.com/ycaistudio/universal-agent-workspace-toolkit`](https://github.com/ycaistudio/universal-agent-workspace-toolkit) 
+- [universal-bot-setup-playbook](https://github.com/ycaistudio/universal-bot-setup-playbook)
+- [universal-agent-workspace-toolkit](https://github.com/ycaistudio/universal-agent-workspace-toolkit)
