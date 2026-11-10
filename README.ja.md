@@ -6,8 +6,8 @@
 Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)](https://github.com/ycaistudio/bot-reincarnation)
-[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)](https://github.com/ycaistudio/bot-reincarnation)
+[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
+[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ycaistudio/bot-reincarnation/pulls)
 
 ---
@@ -76,7 +76,7 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ## 🚀 クイックスタート
 
-1. このリポジトリのリンク（https://github.com/ycaistudio/bot-reincarnation）を bot に送り、`SKILL.md` を読んで skill として保存させる。ファイルを自分でコピーする必要はありません。
+1. このリポジトリのリンク [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) を bot に送り、`SKILL.md` を読んで skill として保存させる。ファイルを自分でコピーする必要はありません。
 2. （推奨）一度だけ：`templates/ID_REGISTRY.template.md` と `templates/HANDOVER.template.md` をコピーして埋める。
 3. 旧 bot で「投胎」または起動フレーズを言う。手順を確認する。
 4. 打鍵で確認。旧 bot が新 bot を作り、確認コマンドを渡す。
@@ -133,7 +133,7 @@ BOT 投胎の引き継ぎを確認します：Gen<N-1> <旧ID先頭8桁> → Gen
 
 ## 🔗 姉妹スキル：Grok Bot 使用量節約（grokbot-token-saver）
 
-[**grokbot-token-saver**](https://github.com/ycaistudio/grokbot-token-saver) は Grok Bot の週間使用量を節約する 22 のコツ集です。ルーティンとグループの棚卸し、スケジュールの間引き、イベントトリガー化、ボット間メッセージの上限、使用量が多いときの低使用量モードを扱います。
+[**grokbot-token-saver**] [`https://github.com/ycaistudio/grokbot-token-saver`](https://github.com/ycaistudio/grokbot-token-saver)  は Grok Bot の週間使用量を節約する 22 のコツ集です。ルーティンとグループの棚卸し、スケジュールの間引き、イベントトリガー化、ボット間メッセージの上限、使用量が多いときの低使用量モードを扱います。
 
 ### 連続して使う
 
@@ -162,5 +162,5 @@ BOT 投胎の引き継ぎを確認します：Gen<N-1> <旧ID先頭8桁> → Gen
 
 関連：
 
-- [universal-bot-setup-playbook](https://github.com/ycaistudio/universal-bot-setup-playbook)
-- [universal-agent-workspace-toolkit](https://github.com/ycaistudio/universal-agent-workspace-toolkit)
+- [universal-bot-setup-playbook] [`https://github.com/ycaistudio/universal-bot-setup-playbook`](https://github.com/ycaistudio/universal-bot-setup-playbook) 
+- [universal-agent-workspace-toolkit] [`https://github.com/ycaistudio/universal-agent-workspace-toolkit`](https://github.com/ycaistudio/universal-agent-workspace-toolkit) 

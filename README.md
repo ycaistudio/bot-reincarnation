@@ -6,8 +6,8 @@
 Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)](https://github.com/ycaistudio/bot-reincarnation)
-[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)](https://github.com/ycaistudio/bot-reincarnation)
+[![Platform](https://img.shields.io/badge/platform-Cross--Platform-lightgrey.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
+[![i18n](https://img.shields.io/badge/i18n-繁體中文%20%7C%20English%20%7C%20日本語-green.svg)] [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ycaistudio/bot-reincarnation/pulls)
 
 ---
@@ -87,7 +87,7 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ## 🚀 快速上手
 
-1. 將本 repo 條 link（https://github.com/ycaistudio/bot-reincarnation）俾你嘅 bot，叫佢「讀 SKILL.md 存做 skill」，唔使自己複製檔案。
+1. 將本 repo 條 link [`https://github.com/ycaistudio/bot-reincarnation`](https://github.com/ycaistudio/bot-reincarnation) 俾你嘅 bot，叫佢「讀 SKILL.md 存做 skill」，唔使自己複製檔案。
 2. （建議）一次性架構：複製 `templates/ID_REGISTRY.template.md` 同 `templates/HANDOVER.template.md`，改成你嘅路徑同角色。
 3. 喺舊 bot 講「投胎」或貼上通用指令詞，等佢列出會做嘅步驟。
 4. 你打字確認之後，舊 bot 開新 bot，並俾你一段確認指令。
@@ -143,7 +143,7 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 ## 🔗 姊妹 Skill：Grok Bot 慳用量（grokbot-token-saver）
 
-[**grokbot-token-saver**](https://github.com/ycaistudio/grokbot-token-saver) 有 22 招慳 Grok Bot 每週用量嘅方法：盤點 routine 同群組、拉疏排程、改用事件觸發、限制 bot 之間傳訊息，同埋用量高時轉低用量模式。
+[**grokbot-token-saver**] [`https://github.com/ycaistudio/grokbot-token-saver`](https://github.com/ycaistudio/grokbot-token-saver)  有 22 招慳 Grok Bot 每週用量嘅方法：盤點 routine 同群組、拉疏排程、改用事件觸發、限制 bot 之間傳訊息，同埋用量高時轉低用量模式。
 
 ### 一連串用法
 
@@ -168,5 +168,5 @@ Grok · Claude Code · Google Antigravity · Cursor · OpenAI · Local LLMs
 
 相關開源：
 
-- [universal-bot-setup-playbook](https://github.com/ycaistudio/universal-bot-setup-playbook) — Bot 管治與入列守則
-- [universal-agent-workspace-toolkit](https://github.com/ycaistudio/universal-agent-workspace-toolkit) — Agent 工作區工具箱
+- [universal-bot-setup-playbook] [`https://github.com/ycaistudio/universal-bot-setup-playbook`](https://github.com/ycaistudio/universal-bot-setup-playbook)  — Bot 管治與入列守則
+- [universal-agent-workspace-toolkit] [`https://github.com/ycaistudio/universal-agent-workspace-toolkit`](https://github.com/ycaistudio/universal-agent-workspace-toolkit)  — Agent 工作區工具箱
