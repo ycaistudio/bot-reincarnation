@@ -1,4 +1,7 @@
 # BOT 投胎 / Bot Reincarnation (v1.0.0)
+
+![Bot Reincarnation](docs/yc-ai-studio-poster.jpg)
+
 **AI 助手「換 bot ID、保留記憶與權限、對話由零開始」通用 Skill**  
 *Universal skill for reincarnating an AI assistant bot into a fresh chat without losing memory, rules, skills, or permissions*  
 *チャット履歴だけ捨てて、記憶・ルール・スキル・権限を引き継ぐ汎用スキル*
